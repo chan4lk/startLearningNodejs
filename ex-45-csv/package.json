@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "bluebird": "^2.9.25",
-    "csv": "^0.4.2"
+    "csv": "^5.0.0"
   }
 }
