@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^0.8.2",
+    "bcrypt": "^5.0.0",
     "bluebird": "^2.9.25",
     "express": "^4.12.3"
   }
