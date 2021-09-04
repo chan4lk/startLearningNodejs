@@ -5,12 +5,16 @@
   "main": "app.js",
   "scripts": {
     "app": "node app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "simple-peer": "^5.4.3",
-    "wrtc": "0.0.55"
-  }
+    "wrtc": "0.0.55",
+    "@snyk/protect": "latest"
+  },
+  "snyk": true
 }
