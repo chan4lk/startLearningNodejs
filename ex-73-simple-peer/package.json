@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "simple-peer": "^5.4.3",
-    "wrtc": "0.0.55"
+    "wrtc": "0.0.59"
   }
 }
