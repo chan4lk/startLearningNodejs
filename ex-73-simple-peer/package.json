@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "simple-peer": "^5.4.3",
+    "simple-peer": "^8.3.0",
     "wrtc": "0.0.55"
   }
 }
