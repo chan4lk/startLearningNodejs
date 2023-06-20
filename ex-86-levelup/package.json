@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "leveldown": "^1.0.6",
-    "levelup": "^1.0.0-5"
+    "leveldown": "^5.0.0",
+    "levelup": "^2.0.0"
   }
 }
