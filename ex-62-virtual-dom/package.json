@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jsdom": "^3.1.2",
+    "jsdom": "^16.6.0",
     "virtual-dom": "^2.0.1"
   }
 }
