@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "jade": "^1.9.2",
-    "koa": "^0.20.0",
+    "koa": "^0.21.2",
     "koa-views": "^3.0.0"
   }
 }
