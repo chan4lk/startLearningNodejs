@@ -12,6 +12,6 @@
   "dependencies": {
     "bluebird": "^2.9.25",
     "formidable": "^1.0.17",
-    "koa": "^0.20.0"
+    "koa": "^0.21.2"
   }
 }
