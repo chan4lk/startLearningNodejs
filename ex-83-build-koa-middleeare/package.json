@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "koa": "^0.20.0"
+    "koa": "^2.16.1"
   }
 }
