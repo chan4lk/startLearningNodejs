@@ -16,7 +16,7 @@
     "supertest": "^0.15.0"
   },
   "dependencies": {
-    "koa": "^0.20.0",
+    "koa": "^2.16.1",
     "koa-bodyparser": "^1.5.0",
     "koa-router": "^4.3.2"
   }
